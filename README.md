@@ -11,7 +11,7 @@ A detailed analysis of Amazon product and customer review data to find useful in
 - Pivot tables for analysing data
 - Pivot chart for interpretation of data
  
-## KMS SQL CASE STUDY
+## KMS SQL CASE STUDY - Case study 2
 
 The Kultra Mega Stores (KMS) Sales Analysis shows a clear analysis of sales and order data for a retail company. It highlighted key trends, best and worst-performing products, and ways to improve operations through the use of SQL
 
